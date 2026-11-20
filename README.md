@@ -11,7 +11,8 @@ This repository organizes practical engineering information for sulfuric-acid al
 5. Review wastewater options in [`wastewater/`](wastewater/).
 6. Review the [Version 1 existing tank photo assessment](case-studies/version-1/README.md) and modernization plan.
 7. Review the [Version 2 video-referenced tank setup guide](case-studies/version-2/README.md), including its review limitation and engineering report.
-8. See [video and media notes](media/videos/README.md) for external visual references.
+8. Start with the [Version 3 international modernization study](case-studies/version-3/README.md) for the comparative advanced concepts and recommendation.
+9. See [video and media notes](media/videos/README.md) for external visual references.
 
 ## Repository map
 
@@ -32,6 +33,19 @@ The case study separates visible features from unknowns and gives a phased retro
 [Open the full assessment](case-studies/version-1/README.md) · [Detailed modernization method](case-studies/version-1/assessment-and-modernization.md) · [Site survey checklist](case-studies/version-1/site-survey-checklist.md)
 
 ![Annotated original tank photo with cautious observation callouts](case-studies/version-1/photo-observations.png)
+
+## Version 3 international modernization concepts
+
+Version 3 compares published EU and U.S. pollution-prevention practices, an aluminum-finishing electrodialysis case study, membrane and advanced wastewater options, and staged tank/cathode/control upgrades. The supplied Version 2 video remains visually unverified; these drawings are original concepts, not reconstructions of the clip.
+
+[Open the Version 3 report and method comparison](case-studies/version-3/README.md) · [Engineering report](case-studies/version-3/REPORT.md) · [Method matrix](case-studies/version-3/METHOD-COMPARISON.md)
+
+<table>
+  <tr>
+    <td align="center"><a href="case-studies/version-3/REPORT.md"><strong>Integrated line concept</strong><br><img src="case-studies/version-3/visuals/integrated-line-concept.svg" width="620" alt="Conceptual anodizing tank with removable cathodes, digital process control, cooling, extraction and rinse management"></a></td>
+    <td align="center"><a href="case-studies/version-3/REPORT.md"><strong>Water recovery and treatment routes</strong><br><img src="case-studies/version-3/visuals/water-and-waste-options.svg" width="620" alt="Conceptual decision flow for rinse optimization, acid recovery, wastewater treatment and selective near-zero liquid discharge"></a></td>
+  </tr>
+</table>
 
 ## Recommended starting design
 
