@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="640" viewBox="0 0 1000 640">
+<style>text{font-family:Arial,sans-serif;fill:#17324a}.title{font-size:24px;font-weight:bold}.label{font-size:16px}.small{font-size:13px}.bath{fill:#d8edf4;opacity:.95}.work{fill:#aebec8;stroke:#536b7b;stroke-width:3}.bus{fill:#d99a34;stroke:#755019;stroke-width:3}</style>
+<text class="title" x="40" y="45">PVDF fabricated tank</text>
+<path d="M220 160 L220 430 L780 430 L780 160" fill="#f7fafb" stroke="#254b62" stroke-width="4"/>
+<path class="bath" d="M228 250 L772 250 L772 422 L228 422z"/><line x1="228" y1="250" x2="772" y2="250" stroke="#347c93" stroke-width="3"/>
+<path d="M220 160 L220 430 L780 430 L780 160" fill="none" stroke="#9471ad" stroke-width="22" stroke-linejoin="round"/>
+<rect class="bus" x="280" y="144" width="440" height="17"/><rect class="bus" x="290" y="160" width="16" height="235"/><rect class="bus" x="694" y="160" width="16" height="235"/>
+<rect class="work" x="465" y="196" width="70" height="192"/><line x1="500" y1="161" x2="500" y2="196" stroke="#536b7b" stroke-width="4"/>
+<text class="label" x="260" y="220">Cathode</text><text class="label" x="460" y="417">Work rack</text><text class="label" x="610" y="239">Electrolyte level</text>
+<text class="label" x="60" y="490">Candidate material: PVDF</text><text class="label" x="60" y="520">Construction: PVDF sheet</text>
+<rect x="60" y="540" width="880" height="58" rx="5" fill="#fff2e8" stroke="#ac673b" stroke-width="1.5"/><text class="small" x="74" y="558"><tspan x="74" dy="0">PVDF has higher chemical/temperature capability in some duties, with higher material and fabrication cost.</tspan><tspan x="74" dy="16">Verify actual bath and process specification.</tspan></text>
+<text class="small" x="60" y="625">Conceptual comparison visual - not to scale, not a fabrication drawing, and not proof of chemical compatibility.</text>
+</svg>

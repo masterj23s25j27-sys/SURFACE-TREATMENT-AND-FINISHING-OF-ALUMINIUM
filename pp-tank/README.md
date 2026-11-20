@@ -30,6 +30,10 @@ The build concept is not a design approval. Tank wall, base, ribs, frame, anchor
 
 These are process categories, not interchangeable instructions. Material grade, thickness, joint geometry, equipment, welder qualification, and code determine the approved procedure. A production tank may use more than one process. The weld method alone does not make an under-designed tank safe.
 
+## Alternative materials and containment
+
+If the specified PP grade does not satisfy the process duty, review the [tank material and lining alternatives](alternatives/README.md). The catalog covers PVDF, CPVC/PVC, HDPE, PP/FRP dual laminate, FRP with a specified corrosion barrier, lined structural shells, and stainless steel. These options require specific chemical, temperature, structural, electrical, and contamination reviews; the drawings are comparison visuals, not material approvals.
+
 ## Cathode and anodizing integration
 
 Provide supports for the cathode header, work rack, hoist, heaters/cooling coils, ventilation hood, overflow, drains, and any baffles in the design drawing. The supplied Aluminum Anodizers Council bulletin describes aluminum cathode installation, placement, minimum work-to-cathode distance, and attachment practices for sulfuric-acid anodizing. Keep electrical joints above the bath and locate supports so they do not create leak paths. Review the existing [cathode fixing report](../reports/Cathode_Plate_Fixing_Engineering_Report.docx) and [support-method gallery](../cathode-plate/methods/README.md).

@@ -7,7 +7,7 @@ This repository organizes practical engineering information for sulfuric-acid al
 1. Read [the cathode fixing engineering report](reports/Cathode_Plate_Fixing_Engineering_Report.docx).
 2. Compare support options in [`cathode-plate/methods/`](cathode-plate/methods/).
 3. Compare cathode materials in [`cathode-plate/material-alternatives/`](cathode-plate/material-alternatives/).
-4. Compare [PP tank build options and welding approaches](pp-tank/README.md).
+4. Compare [PP tank build options, welding approaches, and alternative materials](pp-tank/README.md).
 5. Review wastewater options in [`wastewater/`](wastewater/).
 6. See [video and media notes](media/videos/README.md) for external visual references.
 
@@ -18,7 +18,7 @@ This repository organizes practical engineering information for sulfuric-acid al
 | `reports/` | Engineering report with recommendation, alternatives, sizing example, and a pre-fabrication checklist. |
 | `cathode-plate/methods/` | Six support and fixing arrangements. Each method folder has a short guide and an original SVG schematic. |
 | `cathode-plate/material-alternatives/` | Notes comparing aluminum, lead, stainless steel, and graphite cathode options. |
-| `pp-tank/` | Seven tank architectures and three PP welding process guides, each with original conceptual SVG visuals and a README. |
+| `pp-tank/` | Seven tank architectures, three PP welding process guides, and seven alternative tank materials/lining systems, each with original conceptual SVG visuals and a README. |
 | `wastewater/` | Conceptual process flow references for conventional precipitation, sludge dewatering, and acid recovery. |
 | `media/videos/` | Curated links and notes. No third-party video files are redistributed. |
 
@@ -44,6 +44,8 @@ All diagrams in this repository are original vector schematics authored for this
 - Larry Chesterfield, [Anode: Cathode, Materials, and Surface Area Ratios for Aluminum Anodizing](https://finishingandcoating.com/index.php/anodizingcat/1867-anode-cathode-materials-and-surface-area-ratios-for-aluminum-anodizing), Finishing & Coating.
 - [Properly Installing Anodizing Cathodes](https://finishingandcoating.com/index.php/anodizingcat/1465-properly-installing-anodizing-cathodes), Finishing & Coating.
 - [Custom Plating & Anodizing Process Tanks](https://www.protank.com/custom-plating-anodizing-tanks), Protank.
+- [Tanks and Fabrication](https://www.palmequipment.com/index.cfm?FuseAction=ProcessEquipment_Tanks), Palm Technology.
+- [Chemical Tanks](https://www.ab-plastics.com/tanks.htm), AB Plastics.
 - Saunders, Sezgin, and Kutz, [Treatment of Aluminum-Finishing Wastewaters and Sludges](https://p2infohouse.org/ref/27/26524.pdf).
 - Finnish Water Utilities Association, [Finnish Industrial Wastewater Guide](https://www.vvy.fi/site/assets/files/1110/finnish_industrial_wastewater_guide.pdf).
 - Türk, Zoungrana, and Çakmakci, [Chemical precipitation and membrane distillation process for the treatment of acidic anodic oxidation wastewaters](https://doi.org/10.1016/j.jece.2022.108036).
