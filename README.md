@@ -7,8 +7,9 @@ This repository organizes practical engineering information for sulfuric-acid al
 1. Read [the cathode fixing engineering report](reports/Cathode_Plate_Fixing_Engineering_Report.docx).
 2. Compare support options in [`cathode-plate/methods/`](cathode-plate/methods/).
 3. Compare cathode materials in [`cathode-plate/material-alternatives/`](cathode-plate/material-alternatives/).
-4. Review wastewater options in [`wastewater/`](wastewater/).
-5. See [video and media notes](media/videos/README.md) for external visual references.
+4. Compare [PP tank build options and welding approaches](pp-tank/README.md).
+5. Review wastewater options in [`wastewater/`](wastewater/).
+6. See [video and media notes](media/videos/README.md) for external visual references.
 
 ## Repository map
 
@@ -17,6 +18,7 @@ This repository organizes practical engineering information for sulfuric-acid al
 | `reports/` | Engineering report with recommendation, alternatives, sizing example, and a pre-fabrication checklist. |
 | `cathode-plate/methods/` | Six support and fixing arrangements. Each method folder has a short guide and an original SVG schematic. |
 | `cathode-plate/material-alternatives/` | Notes comparing aluminum, lead, stainless steel, and graphite cathode options. |
+| `pp-tank/` | Seven tank architectures and three PP welding process guides, each with original conceptual SVG visuals and a README. |
 | `wastewater/` | Conceptual process flow references for conventional precipitation, sludge dewatering, and acid recovery. |
 | `media/videos/` | Curated links and notes. No third-party video files are redistributed. |
 
