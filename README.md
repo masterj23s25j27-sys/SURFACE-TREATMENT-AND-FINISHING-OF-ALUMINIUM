@@ -9,7 +9,8 @@ This repository organizes practical engineering information for sulfuric-acid al
 3. Compare cathode materials in [`cathode-plate/material-alternatives/`](cathode-plate/material-alternatives/).
 4. Compare [PP tank build options, welding approaches, and alternative materials](pp-tank/README.md).
 5. Review wastewater options in [`wastewater/`](wastewater/).
-6. See [video and media notes](media/videos/README.md) for external visual references.
+6. Review the [Version 1 existing tank photo assessment](case-studies/version-1/README.md) and modernization plan.
+7. See [video and media notes](media/videos/README.md) for external visual references.
 
 ## Repository map
 
@@ -19,8 +20,17 @@ This repository organizes practical engineering information for sulfuric-acid al
 | `cathode-plate/methods/` | Six support and fixing arrangements. Each method folder has a short guide and an original SVG schematic. |
 | `cathode-plate/material-alternatives/` | Notes comparing aluminum, lead, stainless steel, and graphite cathode options. |
 | `pp-tank/` | Seven tank architectures, three PP welding process guides, and seven alternative tank materials/lining systems, each with original conceptual SVG visuals and a README. |
+| `case-studies/` | Image-based assessments, retrofit concepts, and site survey checklists for existing installations. |
 | `wastewater/` | Conceptual process flow references for conventional precipitation, sludge dewatering, and acid recovery. |
 | `media/videos/` | Curated links and notes. No third-party video files are redistributed. |
+
+## Version 1 existing tank photo assessment
+
+The case study separates visible features from unknowns and gives a phased retrofit plan, modern technology options, and a site-survey checklist.
+
+[Open the full assessment](case-studies/version-1/README.md) · [Detailed modernization method](case-studies/version-1/assessment-and-modernization.md) · [Site survey checklist](case-studies/version-1/site-survey-checklist.md)
+
+![Annotated original tank photo with cautious observation callouts](case-studies/version-1/photo-observations.png)
 
 ## Recommended starting design
 

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+<style>
+text{font-family:Arial,sans-serif;fill:#17324a}.title{font-size:28px;font-weight:bold}.label{font-size:16px}.small{font-size:13px}.box{fill:#f4f8fa;stroke:#315a72;stroke-width:2}.tank{fill:#f7f9fa;stroke:#315a72;stroke-width:5}.bath{fill:#d7edf3}.steel{fill:#7d909b;stroke:#425764;stroke-width:3}.cathode{fill:#d89d37;stroke:#73521c;stroke-width:3}.rack{fill:#92aab7;stroke:#456171;stroke-width:3}.pipe{fill:none;stroke:#2e7992;stroke-width:8}.wire{fill:none;stroke:#b55637;stroke-width:4}.arrow{fill:none;stroke:#315a72;stroke-width:3;marker-end:url(#a)}.warn{fill:#fff2e8;stroke:#a65d32;stroke-width:2}.green{fill:#e4f3e9;stroke:#3d7a50;stroke-width:2}
+</style>
+<defs><marker id="a" markerWidth="11" markerHeight="9" refX="10" refY="4.5" orient="auto"><path d="M0 0 L11 4.5 L0 9z" fill="#315a72"/></marker></defs>
+<text class="title" x="40" y="48">Version 1 retrofit concept for the existing open tank</text>
+<text class="small" x="40" y="76">Concept only: retain the tank only after inspection and design verification. Equipment is illustrative, not a construction drawing.</text>
+
+<!-- capture hood -->
+<path d="M268 125 L878 125 L830 158 L315 158z" fill="#dfe8ed" stroke="#315a72" stroke-width="3"/>
+<path class="arrow" d="M365 165 L365 190"/><path class="arrow" d="M570 165 L570 190"/><path class="arrow" d="M775 165 L775 190"/>
+<text class="label" x="440" y="116">LEV hood / mist capture</text>
+
+<!-- outer support and vessel -->
+<path d="M160 224 L160 574 L935 574 L935 224" fill="none" stroke="#657d89" stroke-width="20"/>
+<path class="tank" d="M205 215 L205 525 L890 525 L890 215"/>
+<path class="bath" d="M214 285 L881 285 L881 516 L214 516z"/>
+<line x1="214" y1="285" x2="881" y2="285" stroke="#2e7992" stroke-width="3"/>
+<text class="small" x="750" y="278">working liquid level</text>
+
+<!-- cathodes, rack, work -->
+<rect class="cathode" x="266" y="205" width="24" height="270"/>
+<rect class="cathode" x="805" y="205" width="24" height="270"/>
+<rect class="cathode" x="522" y="205" width="24" height="270" opacity=".75"/>
+<rect class="rack" x="474" y="220" width="140" height="18"/>
+<rect class="rack" x="490" y="245" width="35" height="205"/>
+<rect class="rack" x="565" y="245" width="35" height="205"/>
+<text class="label" x="224" y="492">Removable side cathodes</text>
+<text class="label" x="484" y="469">Rack / work</text>
+<text class="small" x="592" y="215">Optional center cathode only if load layout/process requires it</text>
+
+<!-- temp probes -->
+<circle cx="344" cy="327" r="12" fill="#d64e42"/><circle cx="745" cy="425" r="12" fill="#d64e42"/>
+<text class="small" x="304" y="356">Temp sensors</text><text class="small" x="690" y="453">Temp sensors</text>
+
+<!-- cooling and agitation loop -->
+<path class="pipe" d="M900 390 L1010 390 L1010 484 L900 484"/>
+<rect class="box" x="1005" y="355" width="150" height="145" rx="8"/>
+<text class="label" x="1025" y="390">Heat exchanger</text>
+<text class="small" x="1024" y="420">and circulation</text>
+<text class="small" x="1024" y="442">pump / eductors</text>
+<path class="arrow" d="M1000 376 L920 376"/><path class="arrow" d="M920 504 L1000 504"/>
+<text class="small" x="935" y="345">Option: engineered pumped</text><text class="small" x="943" y="362">turbulence loop</text>
+<line x1="345" y1="511" x2="770" y2="511" stroke="#2e7992" stroke-width="5" stroke-dasharray="12 8"/>
+<text class="small" x="342" y="547">Alternative agitation: uniform low-pressure air manifold - do not combine blindly</text>
+
+<!-- bund, leak sensor, external rectifier -->
+<path d="M120 590 L120 640 L965 640 L965 590" fill="none" stroke="#557c91" stroke-width="10"/>
+<circle cx="167" cy="621" r="11" fill="#d64e42"/>
+<text class="small" x="190" y="627">Secondary containment with leak detection / safe collection</text>
+<rect class="box" x="45" y="255" width="115" height="145" rx="8"/>
+<text class="label" x="58" y="286">Digital</text><text class="label" x="58" y="307">rectifier</text>
+<text class="small" x="57" y="337">CC/CV recipe</text><text class="small" x="57" y="358">V, A, temp log</text><text class="small" x="57" y="379">alarms/interlocks</text>
+<path class="wire" d="M160 285 L174 285 L174 187 L278 187 L278 205 M160 370 L190 370 L190 178 L490 178 L490 220"/>
+<text class="small" x="44" y="418">Separate isolated bus runs;</text><text class="small" x="44" y="436">verify polarity, drop, joints</text>
+
+<rect class="warn" x="40" y="680" width="1120" height="52" rx="8"/>
+<text class="small" x="57" y="702">Retrofit packages are options. Final arrangement depends on survey data, process chemistry, load geometry, airflow study, tank calculations, and local rules.</text>
+<text class="small" x="57" y="721">Never infer cathode identity, tank material, or structural adequacy from the photo alone.</text>
+</svg>
