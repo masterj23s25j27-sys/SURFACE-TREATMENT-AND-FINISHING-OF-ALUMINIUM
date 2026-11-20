@@ -52,7 +52,7 @@ No dimensions, material grade, bath chemistry, current, temperature, flow rate, 
 
 ## Reference material
 
-- [QUALANOD Specifications, current edition dated 1 January 2026](https://www.qualanod.net/current-edition.html?file=files%2Fqualanod%2Fdownloads%2F2026-01-01+QUALANOD+Specifications.pdf) - anodizing tank capacity, cooling, agitation, current supply, bus contacts, jigs, and rinsing. These are qualification specifications; apply them where the relevant scheme/customer requirements call for them.
+- [QUALANOD current specifications](https://www.qualanod.net/specifications.html) - as of 20 November 2026, QUALANOD lists its specification edition 1 July 2026 as current and states it supersedes the January edition. Check for later updates and apply only where the relevant scheme/customer requirements call for them.
 - [Aluminum Anodizers Council Technical Bulletin #1-00](https://cdn.ymaws.com/anodizing.site-ym.com/resource/resmgr/Docs/Technical_Bulletin_1-00_Sulf.pdf) - aluminum cathodes in sulfuric-acid anodizing.
 - [EPA Ireland BAT Guidance for surface treatment of metals and plastics](https://www.epa.ie/publications/licensing--permitting/industrial/ied/BAT-Guidance-Note-for-Metals-%26-Plastics-Sector.pdf) - monitoring, water/energy use, process recovery, exhaust control, and wastewater options.
 - [HSE PM86 thermoplastic tank integrity guidance](https://www.hse.gov.uk/pubns/guidance/pm86.pdf) - tank service limits, anchoring, inspection, and integrity baselining.

@@ -41,13 +41,13 @@ Record rectifier make/model, topology, age, rated and actual input/output, contr
 
 Modernization options include a refreshed SCR rectifier or a high-frequency IGBT rectifier, with programmable constant-current/constant-voltage control, recipe storage, ramps/holds if qualified, true current/voltage measurement, alarms, and batch data export. Compare systems using efficiency and power-quality data at the plant's actual load profile. Do not assume the newest topology or a pulse waveform automatically improves coating quality or total cost. QUALANOD's 2026 specifications emphasize adequate current capacity, regulation, accurate measurement, and real current-density control; waveform-based supplies require compatible measurement.
 
-Where the QUALANOD scheme applies, its current specification says voltage regulation should be in steps no larger than 0.5 V, meter precision should be 1.5%, instruments should be checked twice yearly, and the busbar-to-flightbar contact drop should not exceed 0.3 V; its stated joint temperature-rise benchmark is no more than 30 °C over ambient. Confirm the scope, test method, and governing customer requirements before adopting these as acceptance limits for this plant.
+Where the QUALANOD scheme applies, consult its latest issued specification and the plant's applicable customer/quality requirements for current regulation, measurement accuracy, calibration, bus/contact and joint-temperature criteria. The previous January 2026 specification is superseded; this report does not carry forward its numerical criteria as current acceptance limits.
 
 ### Bath cooling and agitation
 
-Measure bath temperature at multiple locations during a representative loaded cycle, not only at one tank-wall sensor. Confirm cooling capacity at the maximum installed electrical load and the actual ambient condition. QUALANOD gives an indicative heat-load relation for normal anodizing: **K (kcal/h) = 0.86 × I (A) × [V (V) + 3]**; the cooling designer must add ambient and system factors and verify the result for the actual process.
+Measure bath temperature at multiple locations during a representative loaded cycle, not only at one tank-wall sensor. Confirm cooling capacity at the maximum installed electrical load and the actual ambient condition. Use the heat-load calculation required by the currently applicable QUALANOD specification and have the cooling designer verify units, process duty, ambient and system factors.
 
-Map agitation and temperature uniformity across the work. For batch processing, the 2026 QUALANOD specification notes that simple pump recirculation may not be enough; engineered bottom eductors can provide hydraulic turbulence, while uniform low-pressure air agitation is another option. Air bubbles can increase electrolyte resistance and energy use. Select and balance one design using temperature mapping, coating uniformity trials, mist generation, and energy measurement. Do not copy diffuser spacing or airflow from a different tank.
+Map agitation and temperature uniformity across the work. Compare engineered circulation/eductors and, where permitted, air agitation against the current quality specification, coating uniformity, mist generation, worker exposure and measured energy. Do not copy diffuser spacing or airflow from a different tank.
 
 ### Cathode and rack layout
 
@@ -93,7 +93,7 @@ The image supports a reason to survey a long open tank with unusual-looking side
 
 ## References
 
-- [QUALANOD Specifications, edition 1 January 2026](https://www.qualanod.net/current-edition.html?file=files%2Fqualanod%2Fdownloads%2F2026-01-01+QUALANOD+Specifications.pdf).
+- [QUALANOD current specifications](https://www.qualanod.net/specifications.html) - the organization lists its July 2026 specification as current as of 20 November 2026; check for later updates before design or qualification.
 - [EPA Ireland BAT Guidance for surface treatment of metals and plastics](https://www.epa.ie/publications/licensing--permitting/industrial/ied/BAT-Guidance-Note-for-Metals-%26-Plastics-Sector.pdf).
 - [HSE PM86 thermoplastic tank integrity guidance](https://www.hse.gov.uk/pubns/guidance/pm86.pdf).
 - [HSE G406 local exhaust ventilation guidance](https://www.hse.gov.uk/pubns/guidance/g406.pdf).

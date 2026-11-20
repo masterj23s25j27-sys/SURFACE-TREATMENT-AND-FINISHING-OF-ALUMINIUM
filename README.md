@@ -10,7 +10,8 @@ This repository organizes practical engineering information for sulfuric-acid al
 4. Compare [PP tank build options, welding approaches, and alternative materials](pp-tank/README.md).
 5. Review wastewater options in [`wastewater/`](wastewater/).
 6. Review the [Version 1 existing tank photo assessment](case-studies/version-1/README.md) and modernization plan.
-7. See [video and media notes](media/videos/README.md) for external visual references.
+7. Review the [Version 2 video-referenced tank setup guide](case-studies/version-2/README.md), including its review limitation and engineering report.
+8. See [video and media notes](media/videos/README.md) for external visual references.
 
 ## Repository map
 

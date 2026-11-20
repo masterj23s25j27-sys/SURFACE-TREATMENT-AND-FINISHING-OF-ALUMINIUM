@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="790" viewBox="0 0 1280 790" role="img" aria-labelledby="title desc">
+  <title id="title">Conceptual anodizing tank systems layout</title>
+  <desc id="desc">Not to scale and not extracted from the supplied video. Shows a rectangular process tank, removable cathodes and work rack, circulation and cooling, local exhaust, secondary containment, and a segregated wastewater treatment route.</desc>
+  <defs>
+    <linearGradient id="bath" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#b8ece8"/><stop offset="1" stop-color="#258a91"/></linearGradient>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#334155"/></marker>
+    <style>
+      text{font-family:Arial,Helvetica,sans-serif;fill:#102a43}.title{font-size:30px;font-weight:700}.sub{font-size:16px;fill:#475569}.head{font-size:18px;font-weight:700}.label{font-size:15px}.small{font-size:13px}.line{stroke:#334155;stroke-width:3;fill:none}.leader{stroke:#475569;stroke-width:2;fill:none;marker-end:url(#arrow)}.tank{fill:#e5edf1;stroke:#334155;stroke-width:7}.metal{fill:#9aa9b2;stroke:#273746;stroke-width:3}.accent{fill:#0f766e}
+    </style>
+  </defs>
+  <rect width="1280" height="790" fill="#f8fafc"/>
+  <text x="40" y="52" class="title">Anodizing tank — system layout to assess</text>
+  <text x="40" y="80" class="sub">Conceptual engineering study • not a verified video frame • not to scale • no fabrication dimensions</text>
+
+  <!-- Tank section -->
+  <path d="M235 220H860V590H235Z" class="tank"/>
+  <path d="M250 294H845V574H250Z" fill="url(#bath)" opacity=".95"/>
+  <path d="M210 210H885" stroke="#243746" stroke-width="14"/>
+  <text x="475" y="275" class="small" fill="#083344">Working bath level / freeboard set by process design</text>
+  <!-- Cathodes -->
+  <rect x="330" y="306" width="36" height="226" rx="4" class="metal"/>
+  <rect x="729" y="306" width="36" height="226" rx="4" class="metal"/>
+  <path d="M348 305V195M747 305V195" stroke="#263746" stroke-width="8"/>
+  <path d="M315 193H780" stroke="#1e293b" stroke-width="14"/>
+  <text x="282" y="560" class="label">Removable cathodes</text>
+  <text x="289" y="580" class="small">position and area verified for bath/load</text>
+  <!-- Work rack -->
+  <path d="M542 185V330M598 185V330M515 183H625" stroke="#334155" stroke-width="7"/>
+  <rect x="526" y="330" width="88" height="175" rx="8" fill="#f4c95d" stroke="#7c5c00" stroke-width="4"/>
+  <path d="M532 362H608M532 390H608M532 418H608M532 446H608" stroke="#a17612" stroke-width="3"/>
+  <text x="515" y="530" class="label">Work rack / load</text>
+  <!-- circulation -->
+  <path d="M270 505H305V470M820 500H790V470" stroke="#047b89" stroke-width="8" fill="none" marker-end="url(#arrow)"/>
+  <text x="380" y="552" class="small">Balanced circulation / cooling: validate by flow and temperature mapping</text>
+  <!-- Exhaust -->
+  <path d="M285 137H812L770 170H328Z" fill="#d8dee6" stroke="#475569" stroke-width="4"/>
+  <path d="M550 137V105H690V80" stroke="#475569" stroke-width="8" fill="none" marker-end="url(#arrow)"/>
+  <text x="348" y="128" class="label">LEV hood: capture performance must be measured</text>
+  <!-- Structural frame and bund -->
+  <path d="M200 610H895V632H200ZM218 590V633M878 590V633" fill="#64748b" stroke="#334155" stroke-width="3"/>
+  <path d="M170 650H928V674H170Z" fill="#e9d5a1" stroke="#8a6a29" stroke-width="3"/>
+  <text x="391" y="698" class="small">Engineered support + secondary containment / leak detection</text>
+
+  <!-- Labels -->
+  <path d="M347 188L160 150H45" class="leader"/><text x="42" y="130" class="head">Cathode header</text><text x="42" y="152" class="small">accessible joints and safe isolation</text>
+  <path d="M355 420L188 400H55" class="leader"/><text x="42" y="373" class="head">Tank / liner</text><text x="42" y="395" class="small">material, welds and support engineered</text>
+  <path d="M556 185L556 130" class="leader"/><text x="488" y="112" class="small">Hoist path and rack clearance</text>
+  <path d="M842 482L930 440H1010" class="leader"/><text x="925" y="410" class="head">Recirculation loop</text><text x="925" y="433" class="small">pump / eductor / exchanger</text>
+  <path d="M848 580L925 566H1010" class="leader"/><text x="925" y="540" class="head">Overflow / drain</text><text x="925" y="563" class="small">routed to segregated collection</text>
+
+  <!-- Waste route -->
+  <rect x="958" y="110" width="267" height="270" rx="16" fill="#fff" stroke="#64748b" stroke-width="3"/>
+  <text x="987" y="145" class="head">Wastewater route</text>
+  <rect x="992" y="170" width="195" height="42" rx="8" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/><text x="1020" y="197" class="label">Segregate + characterize</text>
+  <path d="M1089 212V232" class="line" marker-end="url(#arrow)"/>
+  <rect x="992" y="238" width="195" height="42" rx="8" fill="#dcfce7" stroke="#15803d" stroke-width="2"/><text x="1021" y="265" class="label">Treat / recover as proven</text>
+  <path d="M1089 280V300" class="line" marker-end="url(#arrow)"/>
+  <rect x="992" y="306" width="195" height="42" rx="8" fill="#fef3c7" stroke="#b45309" stroke-width="2"/><text x="1018" y="333" class="label">Verify permit + sludge</text>
+  <text x="990" y="367" class="small">No discharge by pH alone</text>
+
+  <rect x="40" y="730" width="1190" height="38" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+  <text x="56" y="755" class="small" fill="#7c2d12">Verify the actual video, process chemistry, dimensions, loads, tank condition, permits and site rules before design or modification.</text>
+</svg>
