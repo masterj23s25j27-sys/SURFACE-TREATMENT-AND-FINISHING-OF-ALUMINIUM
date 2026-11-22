@@ -25,19 +25,19 @@ The user-provided dimensions and ratings are not verified site measurements. Dis
 
 ### Cathode placement
 
-![Cathode layout alternatives](Cathode%20Placement%20Design/cathode-placement-options.svg)
+![Cathode layout alternatives](Cathode%20Placement%20Design/cathode-placement-options.png)
 
-![Tank dimension and volume check](Cathode%20Placement%20Design/tank-dimensions.svg)
+![Tank dimension and volume check](Cathode%20Placement%20Design/tank-dimensions.png)
 
-![Support and functional DC polarity concept](Cathode%20Placement%20Design/support-and-power-concept.svg)
+![Support and functional DC polarity concept](Cathode%20Placement%20Design/support-and-power-concept.png)
 
 ### Jig and work rack
 
-![Jig/rack alternatives](Zig%20Design/jig-options.svg)
+![Jig/rack alternatives](Zig%20Design/jig-options.png)
 
-![Rack travel and clearance envelope](Zig%20Design/rack-envelope.svg)
+![Rack travel and clearance envelope](Zig%20Design/rack-envelope.png)
 
-![Workpiece contact and lifting interface concept](Zig%20Design/contact-detail.svg)
+![Workpiece contact and lifting interface concept](Zig%20Design/contact-detail.png)
 
 All drawings are original SVG concept diagrams and are schematic, not scale drawings. The folders contain the complete design notes and validation steps.
 

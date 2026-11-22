@@ -21,17 +21,17 @@ Voltage and current ratings alone do not establish the rack load capacity or con
 
 ## Layout options
 
-![Jig design alternatives](jig-options.svg)
+![Jig design alternatives](jig-options.png)
 
 **Option A, modular vertical fingers**, is the starting point for tall individual parts where every part can be positively contacted and separated. **Option B, horizontal crossbars**, can suit flat panels or profiles if all parts drain and remain separated. **Option C, a multi-level basket/frame**, suits only small parts with a proven electrical contact strategy and adequate solution circulation; basket shadowing and poor contact can cause nonuniform coating. **Option D, a dedicated single-part tree**, can improve repeatability for complex parts but reduces flexibility. Select by part family and validated finish, not appearance alone.
 
-![Rack plan and elevation envelope](rack-envelope.svg)
+![Rack plan and elevation envelope](rack-envelope.png)
 
 The envelope drawing marks the tank and the nominal rack travel corridor without assigning final fixture dimensions. Define actual clearances from the cathode location, part envelope, hoist, tank fittings, circulation/cooling, and extraction equipment. Part spacing and arrangement require a process trial and must avoid part-to-part contact throughout loading, immersion and withdrawal.
 
 ## Mechanical and contact concept
 
-![Work contact and handling beam concept](contact-detail.svg)
+![Work contact and handling beam concept](contact-detail.png)
 
 The load path runs from parts through replaceable contact fingers/clamps to the conductive jig beam, then to a purpose-designed rack/header interface. A handling beam or insulator must keep energized metal away from the hoist unless the hoist and interface are designed for that electrical duty. Contact design must provide reproducible pressure and low resistance while limiting marks to approved, noncritical contact zones. Contacts need regular inspection and cleaning; no specific bolted or spring clamp detail should be fabricated until the process and materials are approved.
 

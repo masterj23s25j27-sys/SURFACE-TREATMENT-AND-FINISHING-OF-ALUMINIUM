@@ -23,17 +23,17 @@ The volume calculation does not include displacement by racks, work, cathodes, c
 
 ## Placement concepts
 
-![Cathode placement alternatives for a long tank](cathode-placement-options.svg)
+![Cathode placement alternatives for a long tank](cathode-placement-options.png)
 
 The figure compares four arrangements to screen at feasibility. **Option A is the starting concept**, because opposed long-side banks support a centered work envelope and follow the repo's two-sided recommendation. Option B uses divided modular banks for service isolation and adjustment. Option C adds a center bank only if rack geometry/current-distribution mapping demonstrates the need; it can obstruct circulation and handling. Option D is an end-bank idea for process-specific small loads and is not the default for a long work zone. All are schematic and not to scale.
 
-![Dimensioned tank plan and end section](tank-dimensions.svg)
+![Dimensioned tank plan and end section](tank-dimensions.png)
 
 The plan marks the given envelope only. Actual plate height, length, count, gap and rack size are intentionally not assigned. The repository's cathode report cites a **250 mm minimum work-to-cathode gap** for sulfuric-acid aluminum anodizing from the AAC bulletin; verify that the bath and governing process specification are indeed applicable before using that value. Maintain clearance to all conductive hardware over the complete hoist/rack travel.
 
 ## Support and electrical architecture
 
-![Removable top support and isolated rectifier concept](support-and-power-concept.svg)
+![Removable top support and isolated rectifier concept](support-and-power-concept.png)
 
 Use a removable conductive header with insulated bearing saddles on tank-maker-approved points or an independently engineered bridge/frame. Keep bus joints above the liquid and shielded from mist and drips. Do not add wetted-wall penetrations as a retrofit. Engineer lifting features and verify wet mass, load path, lateral restraint, thermal movement, polymer creep, rim bearing, hoist clearance and secondary containment.
 
