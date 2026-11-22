@@ -13,6 +13,7 @@ This repository organizes practical engineering information for sulfuric-acid al
 7. Review the [Version 2 video-referenced tank setup guide](case-studies/version-2/README.md), including its review limitation and engineering report.
 8. Start with the [Version 3 international modernization study](case-studies/version-3/README.md) for the comparative advanced concepts and recommendation.
 9. See [video and media notes](media/videos/README.md) for external visual references.
+10. Review [Version 4](case-studies/version-4/README.md), which consolidates the new [Cathode Placement Design](case-studies/version-4/Cathode%20Placement%20Design/README.md) and [Zig Design](case-studies/version-4/Zig%20Design/README.md) packages for the 17.5 ft tank and specified rectifiers. “Zig” is interpreted as the anodizing jig/rack fixture; confirm this term with the plant before design release.
 
 ## Repository map
 
@@ -23,6 +24,7 @@ This repository organizes practical engineering information for sulfuric-acid al
 | `cathode-plate/material-alternatives/` | Notes comparing aluminum, lead, stainless steel, and graphite cathode options. |
 | `pp-tank/` | Seven tank architectures, three PP welding process guides, and seven alternative tank materials/lining systems, each with original conceptual SVG visuals and a README. |
 | `case-studies/` | Image-based assessments, retrofit concepts, and site survey checklists for existing installations. |
+| `case-studies/version-4/` | Tank-specific cathode placement and jig/rack concept packages with original SVG diagrams and validation gates. |
 | `wastewater/` | Conceptual process flow references for conventional precipitation, sludge dewatering, and acid recovery. |
 | `media/videos/` | Curated links and notes. No third-party video files are redistributed. |
 
@@ -46,6 +48,12 @@ Version 3 compares published EU and U.S. pollution-prevention practices, an alum
     <td align="center"><a href="case-studies/version-3/REPORT.md"><strong>Water recovery and treatment routes</strong><br><img src="case-studies/version-3/visuals/water-and-waste-options.svg" width="620" alt="Conceptual decision flow for rinse optimization, acid recovery, wastewater treatment and selective near-zero liquid discharge"></a></td>
   </tr>
 </table>
+
+## Version 4 tank-specific cathode and jig designs
+
+Version 4 carries the specified tank envelope and rectifier nameplates into alternative cathode placement and jig/rack layouts. It includes dimensional checks and original SVG diagrams in both design folders. These are feasibility concepts, not fabrication or operating drawings; process, structural, electrical, lifting, and EHS reviews remain required.
+
+[Open Version 4](case-studies/version-4/README.md) · [Cathode placement package](case-studies/version-4/Cathode%20Placement%20Design/README.md) · [Jig design package](case-studies/version-4/Zig%20Design/README.md)
 
 ## Recommended starting design
 
