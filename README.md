@@ -14,6 +14,7 @@ This repository organizes practical engineering information for sulfuric-acid al
 8. Start with the [Version 3 international modernization study](case-studies/version-3/README.md) for the comparative advanced concepts and recommendation.
 9. See [video and media notes](media/videos/README.md) for external visual references.
 10. Review [Version 4](case-studies/version-4/README.md), which consolidates the new [Cathode Placement Design](case-studies/version-4/Cathode%20Placement%20Design/README.md) and [Zig Design](case-studies/version-4/Zig%20Design/README.md) packages for the 17.5 ft tank and specified rectifiers. “Zig” is interpreted as the anodizing jig/rack fixture; confirm this term with the plant before design release.
+11. Use the [Version 4 installation planning guide](case-studies/version-4/INSTALLATION-GUIDE.md) to collect approvals, prepare a controlled installation, and organize handover records.
 
 ## Repository map
 

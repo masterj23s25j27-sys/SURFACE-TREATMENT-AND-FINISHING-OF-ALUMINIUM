@@ -6,6 +6,7 @@ Version 4 converts the stated tank dimensions and two rectifier nameplates into 
 
 - [Cathode Placement Design](Cathode%20Placement%20Design/README.md) — tank volume check, placement alternatives, support architecture, DC polarity concept, selection matrix, and engineering release inputs.
 - [Zig Design](Zig%20Design/README.md) — jig/rack alternatives, tank movement envelope, contact interface, load-family selection, and validation sequence.
+- [Installation planning guide](INSTALLATION-GUIDE.md) — prerequisites, controlled installation sequence, commissioning gates, and handover records.
 
 ## Design basis supplied for Version 4
 
